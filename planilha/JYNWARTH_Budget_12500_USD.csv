@@ -1,0 +1,11 @@
+﻿Category,Deliverable,Qty,Estimated cost (USD),Notes / evidence needed
+Core programming,"Movement, combat, progression",1,3500,Contractor estimates to validate
+Art and animation,"Characters, environments, VFX",1,2500,Scope and artist quotes needed
+Vertical slice content,One polished level + boss,1,1900,"Playable milestone, not entire game"
+Narrative and level design,"Intro, quests and level design",1,1000,Defined deliverables required
+Audio,Music and sound effects,1,700,Licensing and original audio quotes
+Testing and optimization,"PC build, bug fixing",1,900,Device test plan required
+Trailer and pitch materials,"Gameplay trailer, pitch deck",1,500,Real footage only
+Production and tools,"Licenses, hosting, coordination",1,500,Review software and service costs
+Contingency,Unexpected costs,1,1000,Reserve; release only if needed
+TOTAL,,,12500,Funding for polished playable vertical slice and production planning; not full game
