@@ -1,11 +1,29 @@
 # JYNWARTH — The Five Lost Paths
 
-Public media repository for the JYNWARTH game project.
+Galeria pública oficial de mídia do projeto **JYNWARTH**. Todas as quatro imagens abaixo são capturas reais do vídeo de gameplay enviado pelo criador.
 
-## Media
+## Capturas do gameplay
 
-Planned assets: four gameplay screenshots and one gameplay video. Media files have not yet been uploaded.
+### Foto 1
+![JYNWARTH — captura 1](media/JYNWARTH_foto_1.jpg)
 
-## Game
+### Foto 2
+![JYNWARTH — captura 2](media/JYNWARTH_foto_2.jpg)
 
-The playable HTML demo can be hosted using GitHub Pages after uploading `index.html` and enabling Pages in repository settings.
+### Foto 3
+![JYNWARTH — captura 3](media/JYNWARTH_foto_3.jpg)
+
+### Foto 4
+![JYNWARTH — captura 4](media/JYNWARTH_foto_4.jpg)
+
+## Vídeo de gameplay
+
+[▶ Assistir ao clipe de 30 segundos](media/JYNWARTH_gameplay_30s.mp4)
+
+A versão publicada do clipe foi compactada para facilitar o acesso. A pasta `media/` contém os cinco arquivos.
+
+## Sobre o jogo
+
+**JYNWARTH — The Five Lost Paths** é um RPG de fantasia sombria com exploração, combate, missões e progressão de personagem.
+
+Este repositório disponibiliza somente os arquivos de mídia; não contém o código-fonte do jogo.
